@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <title>Butex | Onepage Responsive HTML Template</title>
+
+        <link href="{{ asset('bundles/skaphandrusdivingadvisors/css/bootstrap.min.css') }}" rel="stylesheet">
+        <link href="{{ asset('bundles/skaphandrusdivingadvisors/css/animate.css') }}" rel="stylesheet">
+        <link href="{{ asset('bundles/skaphandrusdivingadvisors/css/font-awesome.min.css') }}" rel="stylesheet">	 
+        <link href="{{ asset('bundles/skaphandrusdivingadvisors/css/main.css') }}" rel="stylesheet">
+        <link href="{{ asset('bundles/skaphandrusdivingadvisors/css/responsive.css') }}" rel="stylesheet">
+
+        <!--[if lt IE 9]>
+                <script src="{{ asset('bundles/skaphandrusdivingadvisors/js/html5shiv.js') }}"></script>
+                <script src="{{ asset('bundles/skaphandrusdivingadvisors/js/respond.min.js') }}"></script>
+        <![endif]-->       
+        <link rel="shortcut icon" href="images/ico/favicon.ico">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ asset('bundles/skaphandrusdivingadvisors/images/ico/apple-touch-icon-144-precomposed.png') }}">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ asset('bundles/skaphandrusdivingadvisors/images/ico/apple-touch-icon-114-precomposed.png') }}">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ asset('bundles/skaphandrusdivingadvisors/images/ico/apple-touch-icon-72-precomposed.png') }}">
+        <link rel="apple-touch-icon-precomposed" href="{{ asset('bundles/skaphandrusdivingadvisors/images/ico/apple-touch-icon-57-precomposed.png') }}">
+    </head><!--/head-->
+
+    <body>
+        <!-- Page Loader -->
+        <div class="preloader">
+            <div id="loaderImage"></div>
+        </div>
+
+
+
+
+    {% block body %}{% endblock %}
+
+
+    <!--/Scripts--> 
+    <script type="text/javascript" src="{{ asset('bundles/skaphandrusdivingadvisors/js/jquery.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('bundles/skaphandrusdivingadvisors/js/bootstrap.min.js') }}"></script>	
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+    <script type="text/javascript" src="{{ asset('bundles/skaphandrusdivingadvisors/js/gmaps.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('bundles/skaphandrusdivingadvisors/js/canvas.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('bundles/skaphandrusdivingadvisors/js/jquery.isotope.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('bundles/skaphandrusdivingadvisors/js/wow.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('bundles/skaphandrusdivingadvisors/js/main.js') }}"></script>	
+
+
+
+{% block javascripts %}{% endblock %}
+
+
+
+
+</body>
+</html>

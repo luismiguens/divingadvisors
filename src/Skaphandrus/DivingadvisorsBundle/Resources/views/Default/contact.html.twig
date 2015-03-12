@@ -1,0 +1,62 @@
+
+<!-- ******CONTACT****** --> 
+<section id="contact" class="contact section has-pattern">
+    <div class="container">
+        <div class="row text-center">
+
+            <h2 class="title">{% trans %}Contact US{% endtrans %}</h2>
+            <div class="intro col-md-6 col-sm-12 col-xs-12 col-md-offset-3">
+                {% for flashMessage in app.session.flashbag.get('success') %}
+                    <p> <strong>Well done!</strong> {% trans %}thanks_contact_us{% endtrans %} </p>
+                {% else %}
+                    <p>{% trans %}We’d love to hear from you.{% endtrans %} </p>
+                {% endfor %}
+                    <ul class="list-unstyled contact-details">
+                        <li><i class="fa fa-envelope"></i><a href="mailto:contact@oceanlifeid.com">contact[at]oceanlifeid.com</a></li>
+                        <li><i class="fa fa-phone-square"></i>+351 962445280</li>
+                    </ul>
+                </div>
+            </div><!--//row-->
+            <div class="row text-center">
+                <div class="contact-form col-md-6 col-sm-12 col-xs-12 col-md-offset-3">                            
+                    {{ form_start(form, {'method': 'POST'}) }}               
+                        <div class="form-group name">
+                            <label class="sr-only" for="skaphandrus_oceanlifeidbundle_contact_name">{% trans %}Name{% endtrans %}</label>
+                             {{ form_widget(form.name) }}
+                        </div><!--//form-group-->
+                        <div class="form-group email">
+                            <label class="sr-only" for="skaphandrus_oceanlifeidbundle_contact_email">{% trans %}Email{% endtrans %}</label>
+                            {{ form_widget(form.email) }}
+                        </div><!--//form-group-->
+                        <div class="form-group message">
+                            <label class="sr-only" for="skaphandrus_oceanlifeidbundle_contact_message">{% trans %}Message{% endtrans %}</label>
+                            {{ form_widget(form.message) }}
+                        </div><!--//form-group-->
+                        <button type="submit" class="btn btn-lg btn-theme">{% trans %}Send Message{% endtrans %}</button>
+                    {{ form_end(form) }}<!--//form-->                 
+                    </div><!--//contact-form-->
+                </div><!--//row-->
+                <div class="text-center">
+                    <ul class="social-icons list-inline">
+                        <li><a target="_blank"  href="https://twitter.com/skaphandrus" ><i class="fa fa-twitter"></i></a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/OceanLifeID" ><i class="fa fa-facebook"></i></a></li>
+                        <li><a target="_blank" href="http://www.linkedin.com/company/skaphandrus" ><i class="fa fa-linkedin"></i></a></li>
+                        <li><a target="_blank" href="https://plus.google.com/110864310229825870402" rel="publisher"><i class="fa fa-google-plus"></i></a></li>                  
+                    </ul><!--//social-icons-->
+                </div><!--//row-->
+        
+                <div class="text-center">
+                    <div class="fb-like" 
+                         data-href="https://www.facebook.com/OceanLifeID" 
+                         data-layout="standard" 
+                         data-action="like" 
+                         data-show-faces="true" 
+                         data-share="true">
+                    </div>
+                </div>
+        
+        
+        </div><!--//container-->
+        </section><!--//contact-->  
+        
+        

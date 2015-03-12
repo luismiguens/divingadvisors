@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="it" datatype="plaintext" original="file.ext">
+    <body>
+
+
+<!--CONTACT-->
+      <trans-unit id="741c37e7af4d422dba418b18c6bc011a" resname="Contact US">
+        <source>Contact US</source>
+        <target>Contattaci</target>
+      </trans-unit>
+      <trans-unit id="c239ee5dc9ccd2bb93077c856d6eab63" resname="thanks_contact_us">
+        <source>thanks_contact_us</source>
+        <target>Grazie per averci contattato, ti risponderemo il vostro messaggio nel più breve tempo possibile.</target>
+      </trans-unit>
+      <trans-unit id="3197fa14e4e08e27580a8769ca8624f1" resname="We’d love to hear from you.">
+        <source>We’d love to hear from you.</source>
+        <target>Ci piacerebbe sentire da voi.</target>
+      </trans-unit>
+      <trans-unit id="49ee3087348e8d44e1feda1917443987" resname="Name">
+        <source>Name</source>
+        <target>Nome</target>
+      </trans-unit>
+      <trans-unit id="ce8ae9da5b7cd6c3df2929543a9af92d" resname="Email">
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="4c2a8fe7eaf24721cc7a9f0175115bd4" resname="Message">
+        <source>Message</source>
+        <target>Messaggio</target>
+      </trans-unit>
+      <trans-unit id="1432f32780bbd9cde496343b060fd75d" resname="Send Message">
+        <source>Send Message</source>
+        <target>Invia un Messaggio</target>
+      </trans-unit>
+
+
+<!--FAQS-->
+      <trans-unit id="5405d8a903c83e89cb649f1b518ef1be" resname="Frequently Asked Questions">
+        <source>Frequently Asked Questions</source>
+        <target>Domande frequenti</target>
+      </trans-unit>
+      <trans-unit id="3239a3bcd2f619642ae1c88bb87cd034" resname="Question 01">
+        <source>Question 01</source>
+        <target>l'applicazione gratuita?</target>
+      </trans-unit>
+      <trans-unit id="374764b5d3b8a53e177334733178539f" resname="Answer 01">
+        <source>Answer 01</source>
+        <target>L'applicazione è gratuita, tuttavia alcuni gruppi tassonomici funziona solo attraverso un "acquisto in-app".</target>
+      </trans-unit>
+      <trans-unit id="a3ccfe34e70a71968ec0598344ebcf67" resname="Question 02">
+        <source>Question 02</source>
+        <target>Che cosa è un acquisto in-app?</target>
+      </trans-unit>
+      <trans-unit id="53d106dde9c781369bf5cc4346458abb" resname="Answer 02">
+        <source>Answer 02</source>
+        <target>Un "acquisto in-app" è un ulteriore acquisto si effettua all'interno di un'applicazione. Clicca <![CDATA[ <a href="http://support.apple.com/kb/ht4009">qui</a> ]]> per ulteriori informazioni circa in app acquisti.</target>
+      </trans-unit>
+      <trans-unit id="47b0cff0a487bd290d83644005c808f0" resname="Question 03">
+        <source>Question 03</source>
+        <target>l'applicazione ha bisogno di una connessione internet?</target>
+      </trans-unit>
+      <trans-unit id="e7adee2832e5f9fdbe03a1a43f72499c" resname="Answer 03">
+        <source>Answer 03</source>
+        <target>sì, la maggior parte delle informazioni app è memorizzato su un server e l'applicazione ha bisogno di accedere a Internet per recuperare le informazioni.</target>
+      </trans-unit>
+      <trans-unit id="5ef3d14c1198e0cd7e016eef7a3a03be" resname="Question 04">
+        <source>Question 04</source>
+        <target>Quali dispositivi è l'applicazione disponibile per?</target>
+      </trans-unit>
+      <trans-unit id="2b67b76caf7bd81c7219aa751a4aead0" resname="Answer 04">
+        <source>Answer 04</source>
+        <target>Al momento è disponibile per iPhone 4, iPhone 4S, iPhone 5, iPhone 6 e Android.</target>
+      </trans-unit>
+      <trans-unit id="99e3014c8b6f7081f89c88cfed1a4bd7" resname="Question 05">
+        <source>Question 05</source>
+        <target>Quali lingue è disponibile?</target>
+      </trans-unit>
+      <trans-unit id="0415f2d2ab6ba946101ccc1a0d77c541" resname="Answer 05">
+        <source>Answer 05</source>
+        <target>A questo punto l'applicazione è disponibile in inglese e portoghese e altre lingue seguiranno presto.</target>
+      </trans-unit>
+      <trans-unit id="ce668a2e4fc580823f3ea2e469686fcb" resname="Question 06">
+        <source>Question 06</source>
+        <target>Come posso partecipare?</target>
+      </trans-unit>
+      <trans-unit id="ce75d6c0da7ca65740130f9f58a269fe" resname="Answer 06">
+        <source>Answer 06</source>
+        <target>Si può contribuire inviando le vostre foto sul nostro sito http://skaphandrus.com.</target>
+      </trans-unit>
+      <trans-unit id="a40de914e9e0e2392db66293b07d1550" resname="More questions">
+        <source>More questions</source>
+        <target>Altre domande?</target>
+      </trans-unit>
+      <trans-unit id="7373ef469e2601cdc067e38068f09dc8" resname="Get in touch">
+        <source>Get in touch</source>
+        <target>Entra in contatto</target>
+      </trans-unit>
+     
+
+
+  
+<!-- FEATURES -->
+      <trans-unit id="6338e804c5d91558e96499e7810f8ff1" resname="App Feature 01">
+        <source>App Feature 01</source>
+        <target>Illustrazioni</target>
+      </trans-unit>
+      <trans-unit id="16e50b60a02bcda8e139d8163c10f7af" resname="Outline app feature 01 here">
+        <source>Outline app feature 01 here</source>
+        <target>Illustrazioni di tutte le caratteristiche morfologiche.</target>
+      </trans-unit>
+      <trans-unit id="dc1c3633a634d8e7c47f9ca729963daa" resname="App Feature 02">
+        <source>App Feature 02</source>
+        <target>Chiavi di identificazione</target>
+      </trans-unit>
+      <trans-unit id="9f034cf84144528bc7145f9c711bd53c" resname="Outline app feature 02 here">
+        <source>Outline app feature 02 here</source>
+        <target>Chiavi di identificazione basati su caratteristiche morfologiche distinte.</target>
+      </trans-unit>
+      <trans-unit id="1734bfda4aba1e6482e56fef91035ee5" resname="App Feature 03">
+        <source>App Feature 03</source>
+        <target>Biologi marini</target>
+      </trans-unit>
+      <trans-unit id="8357d2eeee209f1479ffdcfadda1abb9" resname="Outline app feature 03 here">
+        <source>Outline app feature 03 here</source>
+        <target>I dati rigorosamente trattata e sviluppata da biologi marini.</target>
+      </trans-unit>
+      <trans-unit id="3d8ca78c82a211f24574f853eb34c1b3" resname="App Feature 04">
+        <source>App Feature 04</source>
+        <target>Multilingue</target>
+      </trans-unit>
+      <trans-unit id="4081a1d4ddd12d30b5848fbdb898d7ee" resname="Outline app feature 04 here">
+        <source>Outline app feature 04 here</source>
+        <target>Multilingue.</target>
+      </trans-unit>
+      <trans-unit id="e391408242a0031b47380f8a2f5ae182" resname="App Feature 05">
+        <source>App Feature 05</source>
+        <target>Caratteristiche morfologiche</target>
+      </trans-unit>
+      <trans-unit id="2301cf85713d915593375ef0e36bd983" resname="Outline app feature 05 here">
+        <source>Outline app feature 05 here</source>
+        <target>Consente la selezione sequenziale e multiplo di caratteristiche morfologiche.</target>
+      </trans-unit>
+      <trans-unit id="2420892c221027066d3ce18b1aa40307" resname="App Feature 06">
+        <source>App Feature 06</source>
+        <target>Aggiornamenti</target>
+      </trans-unit>
+      <trans-unit id="80a427282e23f9a9d8fe456bfab9a19c" resname="Outline app feature 06 here">
+        <source>Outline app feature 06 here</source>
+        <target>Aggiornamenti mensili.</target>
+      </trans-unit>
+      <trans-unit id="a234a79e6b9eea43954eb29a4e233101" resname="App Feature 07">
+        <source>App Feature 07</source>
+        <target>Fotografie</target>
+      </trans-unit>
+      <trans-unit id="eb3d663810056edd80e694cf9456136d" resname="Outline app feature 07 here">
+        <source>Outline app feature 07 here</source>
+        <target>Schede Specie presentato con fotografie, tassonomia, nomi scientifici e comuni.</target>
+      </trans-unit>
+
+
+
+<!-- HOW IT WORKS -->
+
+      <trans-unit id="758142ffa06f9faa722c5ebda418c4bd" resname="Scan the QR codes">
+        <source>Scan the QR codes</source>
+        <target>Scansione del codice QR</target>
+      </trans-unit>
+      <trans-unit id="ed86b76d254c180b70138d32377e8b23" resname="Download for iOS">
+        <source>Download for iOS</source>
+        <target>Scarica iOS</target>
+      </trans-unit>
+      <trans-unit id="90bdec6c4f3622ed1965c73d8f049065" resname="Download for Android">
+        <source>Download for Android</source>
+        <target>Download per Android</target>
+      </trans-unit>
+
+      <trans-unit id="90bdec6c4f3622ed1965231d8f049065" resname="Screenshots">
+        <source>Screenshots</source>
+        <target>Screenshots</target>
+      </trans-unit>
+
+
+ 
+<!--MENU -->
+      <trans-unit id="98f770b0af18ca763421bac22b4b6805" resname="Features">
+        <source>Features</source>
+        <target>Lineamenti</target>
+      </trans-unit>
+      <trans-unit id="9ffdb95250e26c7a6b468126ac7c75b0" resname="How it works">
+        <source>How it works</source>
+        <target>Come funziona</target>
+      </trans-unit>
+     <trans-unit id="1fe917b01f9a3f87fa2d7d3b7643fac1" resname="FAQ">
+        <source>FAQ</source>
+        <target>FAQ</target>
+      </trans-unit>
+      <trans-unit id="dfba89a600b608b2b724efe1f06f599a" resname="Story">
+        <source>Story</source>
+        <target>Storia</target>
+      </trans-unit>
+      <trans-unit id="bbaff12800505b22a853e8b7f4eb6a22" resname="Contact">
+        <source>Contact</source>
+        <target>Contatti</target>
+      </trans-unit>
+
+      <trans-unit id="bbaff12800505b2qq2a853e8b7f4eb6a22" resname="Blog">
+        <source>Blog</source>
+        <target>Blog</target>
+      </trans-unit>
+
+    
+<!-- FOOTER -->
+      <trans-unit id="6f1bf85c9ebb3c7fa26251e1e335e032" resname="Terms">
+        <source>Terms</source>
+        <target>Condizioni</target>
+      </trans-unit>
+      <trans-unit id="c5f29bb36f9158d2e00f5d4dc213a0ff" resname="Privacy">
+        <source>Privacy</source>
+        <target>Diritti</target>
+      </trans-unit>
+
+
+<!-- PROMO -->
+      <trans-unit id="ed1456d1708a49e371afc90b4f102143" resname="promote mobile app title">
+        <source>promote mobile app title</source>
+        <target>Vi siete mai chiesti che cosa vedete sott'acqua? Questa applicazione ti dà la risposta!</target>
+      </trans-unit>
+      <trans-unit id="511d03ddbd25eab4d452f3170293fb50" resname="promote mobile app summary 01">
+        <source>promote mobile app summary 01</source>
+        <target>Sviluppato da biologi marini, illustratori scientifici e subacquei</target>
+      </trans-unit>
+      <trans-unit id="7c700e05aef02514febbfaffcc4373b4" resname="promote mobile app summary 02">
+        <source>promote mobile app summary 02</source>
+        <target>Processo di identificazione semplice che permette una rapida identificazione di un organismo</target>
+      </trans-unit>
+      <trans-unit id="38bde48247be549f2a8464f53990827d" resname="promote mobile app summary 03">
+        <source>promote mobile app summary 03</source>
+        <target>Formazione per sub e tutti coloro che amano il mare</target>
+      </trans-unit>
+      <trans-unit id="e391530b5e6df3bb9b75a5ee1b66b71f" resname="promote mobile app summary 04">
+        <source>promote mobile app summary 04</source>
+        <target>Rendere le vostre osservazioni più prezioso e utile alla scienza</target>
+      </trans-unit>
+
+
+      <trans-unit id="511d03ddbd25eab4d452f3170293fb50a" resname="promote mobile app summary 05">
+        <source>promote mobile app summary 05</source>
+        <target>Gruppi tassonomici che sono più comuni e suscettibili di essere osservati durante l'immersione</target>
+      </trans-unit>
+      <trans-unit id="7c700e05aef02514febbfaffcc4373b4a" resname="promote mobile app summary 06">
+        <source>promote mobile app summary 06</source>
+        <target>Strumento di identificazione interattiva attraverso la selezione di caratteristiche morfologiche</target>
+      </trans-unit>
+      <trans-unit id="38bde48247be549f2a8464f53990827da" resname="promote mobile app summary 07">
+        <source>promote mobile app summary 07</source>
+        <target>La soluzione basata su chiavi di identificazione che utilizza immagini e le illustrazioni scientifiche</target>
+      </trans-unit>
+      <trans-unit id="e391530b5e6df3bb9b75a5ee1b66b71fa" resname="promote mobile app summary 08">
+        <source>promote mobile app summary 08</source>
+        <target>Sviluppato con rigore scientifico</target>
+      </trans-unit>
+
+
+
+      <trans-unit id="b0f5899503698ea633f035e1a5cf8ae2" resname="Download from the App Store">
+        <source>Download from the App Store</source>
+        <target>Scarica da App Store</target>
+      </trans-unit>
+      <trans-unit id="4c3111829af1789393895327c12b47b6" resname="Get it from Google Play">
+        <source>Get it from Google Play</source>
+        <target>Ottenere da Google Play</target>
+      </trans-unit>
+      <trans-unit id="bc4abc8939eb95708fce9bd5277d5949" resname="30% OFF - Now only $0.99">
+        <source>30% OFF - Now only $0.99</source>
+        <target>Ottenere da Google Play</target>
+      </trans-unit>
+      <trans-unit id="2c01806a7b9a60cf6ab4222b10c44a4d" resname="Offer ends 31st March">
+        <source>Offer ends 31st March</source>
+        <target>Get it Now</target>
+      </trans-unit>
+
+
+
+<!-- STORY -->
+      <trans-unit id="4c21b538b6def4ed989087adf6011dcb" resname="Story behind the app">
+        <source>Story behind the app</source>
+        <target>Storia dietro l'app</target>
+      </trans-unit>
+      <trans-unit id="9015c04739f22ca631b3e9e22fa52177" resname="Story_first_paragraph">
+        <source>Story_first_paragraph</source>
+        <target>Ci sono circa 20 milioni i subacquei di tutto il mondo il cui obiettivo principale è quello di osservare organismi marini degli oceani. Alla fine di ogni immersione, il principale argomento di conversazione è di circa gli animali e le piante osservate. Tuttavia, alla domanda "Quali specie era?", È spesso senza risposta ... Perché? Perché al momento, non esiste uno strumento esistente in grado di aiutare nella identificazione delle specie senza bisogno di informazioni biologiche e tassonomiche calcestruzzo. Ocean ID vita è la soluzione a questa lacuna nella tecnologia.</target>
+      </trans-unit>
+      <trans-unit id="e85e6365c6c3ca6ff37d2b2fbcbce401" resname="Story_second_paragraph">
+        <source>Story_second_paragraph</source>
+        <target>L'applicazione Ocean Life ID, basato su chiavi di identificazione che utilizza immagini e le illustrazioni scientifiche, è la soluzione che permetterà a chiunque di identificare gli organismi osservati quando il nome scientifico è sconosciuto. Utilizzando una selezione sequenziale di caratteristiche morfologiche, il numero di possibili organismi viene ridotto fino ad un gruppo tassonomico finale è attribuito in cui la descrizione fornita contiene tutte le caratteristiche selezionate. Si tratta di un semplice processo di identificazione che permette a chiunque di identificare un organismo marino in un tempo relativamente breve.</target>
+      </trans-unit>
+      <trans-unit id="45f7c549c227de2abfa73c634eab753e" resname="Project Manager">
+        <source>Project Manager</source>
+        <target>Project Manager</target>
+      </trans-unit>
+      <trans-unit id="37198a8bc01ca552f29c98c1efd55641" resname="Brand Manager">
+        <source>Brand Manager</source>
+        <target>Brand Manager</target>
+      </trans-unit>
+     
+
+<!-- TESTIMONIALS-->
+      <trans-unit id="b6fbb5c0ad5ca6ea9f20c72fa699a529" resname="What do people think">
+        <source>What do people think</source>
+        <target>Cosa pensa la gente?</target>
+      </trans-unit>
+      <trans-unit id="f809a437313a543e33f7a989ce1cbb59" resname="Also featured in...">
+        <source>Also featured in...</source>
+        <target>Presenti anche nelle...</target>
+      </trans-unit>
+
+
+<!-- META -->
+      <trans-unit id="f809a437313a543e33f7a989ce1cbb12" resname="title">
+        <source>title</source>
+        <target>La più veloce ed intuitiva app per l'identificazione della vita marina!</target>
+      </trans-unit>
+      <trans-unit id="f809a437313a543e33f7a989ce1c1222" resname="description">
+        <source>description</source>
+        <target>L'applicazione Ocean Life ID, basato su chiavi di identificazione che utilizza immagini e le illustrazioni scientifiche, è la soluzione che permetterà a chiunque di identificare gli organismi osservati quando il nome scientifico è sconosciuto.</target>
+      </trans-unit>
+
+      <trans-unit id="f80qweweqwea989ce1c1222" resname="keywords">
+        <source>keywords</source>
+        <target>SCUBA,oceano,marino,mare,vita,identificazione,chiave,mammiferi,cetacei,balene,delfini,lontra,foca,'leoni marini',trichechi,dugongo</target>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>

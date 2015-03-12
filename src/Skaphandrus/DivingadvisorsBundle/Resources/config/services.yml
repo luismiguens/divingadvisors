@@ -1,0 +1,7 @@
+parameters:
+#    skaphandrus_oceanlifeid.example.class: Skaphandrus\DivingadvisorsBundle\Example
+
+services:
+#    skaphandrus_oceanlifeid.example:
+#        class: %skaphandrus_oceanlifeid.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

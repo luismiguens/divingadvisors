@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext">
+    <body>
+      <trans-unit id="98f770b0af18ca763421bac22b4b6805" resname="Features">
+        <source>Features</source>
+        <target>__Features</target>
+      </trans-unit>
+      <trans-unit id="9ffdb95250e26c7a6b468126ac7c75b0" resname="How it works">
+        <source>How it works</source>
+        <target>__How it works</target>
+      </trans-unit>
+      <trans-unit id="1fe917b01f9a3f87fa2d7d3b7643fac1" resname="FAQ">
+        <source>FAQ</source>
+        <target>__FAQ</target>
+      </trans-unit>
+      <trans-unit id="dfba89a600b608b2b724efe1f06f599a" resname="Story">
+        <source>Story</source>
+        <target>__Story</target>
+      </trans-unit>
+      <trans-unit id="bbaff12800505b22a853e8b7f4eb6a22" resname="Contact">
+        <source>Contact</source>
+        <target>__Contact</target>
+      </trans-unit>
+      <trans-unit id="741c37e7af4d422dba418b18c6bc011a" resname="Contact US">
+        <source>Contact US</source>
+        <target>__Contact US</target>
+      </trans-unit>
+      <trans-unit id="3197fa14e4e08e27580a8769ca8624f1" resname="We’d love to hear from you.">
+        <source>We’d love to hear from you.</source>
+        <target>__We’d love to hear from you.</target>
+      </trans-unit>
+      <trans-unit id="49ee3087348e8d44e1feda1917443987" resname="Name">
+        <source>Name</source>
+        <target>__Name</target>
+      </trans-unit>
+      <trans-unit id="ce8ae9da5b7cd6c3df2929543a9af92d" resname="Email">
+        <source>Email</source>
+        <target>__Email</target>
+      </trans-unit>
+      <trans-unit id="4c2a8fe7eaf24721cc7a9f0175115bd4" resname="Message">
+        <source>Message</source>
+        <target>__Message</target>
+      </trans-unit>
+      <trans-unit id="1432f32780bbd9cde496343b060fd75d" resname="Send Message">
+        <source>Send Message</source>
+        <target>__Send Message</target>
+      </trans-unit>
+      <trans-unit id="5405d8a903c83e89cb649f1b518ef1be" resname="Frequently Asked Questions">
+        <source>Frequently Asked Questions</source>
+        <target>__Frequently Asked Questions</target>
+      </trans-unit>
+      <trans-unit id="3239a3bcd2f619642ae1c88bb87cd034" resname="Question 01">
+        <source>Question 01</source>
+        <target>__Question 01</target>
+      </trans-unit>
+      <trans-unit id="374764b5d3b8a53e177334733178539f" resname="Answer 01">
+        <source>Answer 01</source>
+        <target>__Answer 01</target>
+      </trans-unit>
+      <trans-unit id="a3ccfe34e70a71968ec0598344ebcf67" resname="Question 02">
+        <source>Question 02</source>
+        <target>__Question 02</target>
+      </trans-unit>
+      <trans-unit id="53d106dde9c781369bf5cc4346458abb" resname="Answer 02">
+        <source>Answer 02</source>
+        <target>__Answer 02</target>
+      </trans-unit>
+      <trans-unit id="47b0cff0a487bd290d83644005c808f0" resname="Question 03">
+        <source>Question 03</source>
+        <target>__Question 03</target>
+      </trans-unit>
+      <trans-unit id="e7adee2832e5f9fdbe03a1a43f72499c" resname="Answer 03">
+        <source>Answer 03</source>
+        <target>__Answer 03</target>
+      </trans-unit>
+      <trans-unit id="5ef3d14c1198e0cd7e016eef7a3a03be" resname="Question 04">
+        <source>Question 04</source>
+        <target>__Question 04</target>
+      </trans-unit>
+      <trans-unit id="2b67b76caf7bd81c7219aa751a4aead0" resname="Answer 04">
+        <source>Answer 04</source>
+        <target>__Answer 04</target>
+      </trans-unit>
+      <trans-unit id="99e3014c8b6f7081f89c88cfed1a4bd7" resname="Question 05">
+        <source>Question 05</source>
+        <target>__Question 05</target>
+      </trans-unit>
+      <trans-unit id="0415f2d2ab6ba946101ccc1a0d77c541" resname="Answer 05">
+        <source>Answer 05</source>
+        <target>__Answer 05</target>
+      </trans-unit>
+      <trans-unit id="ce668a2e4fc580823f3ea2e469686fcb" resname="Question 06">
+        <source>Question 06</source>
+        <target>__Question 06</target>
+      </trans-unit>
+      <trans-unit id="ce75d6c0da7ca65740130f9f58a269fe" resname="Answer 06">
+        <source>Answer 06</source>
+        <target>__Answer 06</target>
+      </trans-unit>
+      <trans-unit id="a40de914e9e0e2392db66293b07d1550" resname="More questions">
+        <source>More questions</source>
+        <target>__More questions</target>
+      </trans-unit>
+      <trans-unit id="7373ef469e2601cdc067e38068f09dc8" resname="Get in touch">
+        <source>Get in touch</source>
+        <target>__Get in touch</target>
+      </trans-unit>
+      <trans-unit id="6338e804c5d91558e96499e7810f8ff1" resname="App Feature 01">
+        <source>App Feature 01</source>
+        <target>__App Feature 01</target>
+      </trans-unit>
+      <trans-unit id="16e50b60a02bcda8e139d8163c10f7af" resname="Outline app feature 01 here">
+        <source>Outline app feature 01 here</source>
+        <target>__Outline app feature 01 here</target>
+      </trans-unit>
+      <trans-unit id="dc1c3633a634d8e7c47f9ca729963daa" resname="App Feature 02">
+        <source>App Feature 02</source>
+        <target>__App Feature 02</target>
+      </trans-unit>
+      <trans-unit id="9f034cf84144528bc7145f9c711bd53c" resname="Outline app feature 02 here">
+        <source>Outline app feature 02 here</source>
+        <target>__Outline app feature 02 here</target>
+      </trans-unit>
+      <trans-unit id="1734bfda4aba1e6482e56fef91035ee5" resname="App Feature 03">
+        <source>App Feature 03</source>
+        <target>__App Feature 03</target>
+      </trans-unit>
+      <trans-unit id="8357d2eeee209f1479ffdcfadda1abb9" resname="Outline app feature 03 here">
+        <source>Outline app feature 03 here</source>
+        <target>__Outline app feature 03 here</target>
+      </trans-unit>
+      <trans-unit id="3d8ca78c82a211f24574f853eb34c1b3" resname="App Feature 04">
+        <source>App Feature 04</source>
+        <target>__App Feature 04</target>
+      </trans-unit>
+      <trans-unit id="4081a1d4ddd12d30b5848fbdb898d7ee" resname="Outline app feature 04 here">
+        <source>Outline app feature 04 here</source>
+        <target>__Outline app feature 04 here</target>
+      </trans-unit>
+      <trans-unit id="e391408242a0031b47380f8a2f5ae182" resname="App Feature 05">
+        <source>App Feature 05</source>
+        <target>__App Feature 05</target>
+      </trans-unit>
+      <trans-unit id="2301cf85713d915593375ef0e36bd983" resname="Outline app feature 05 here">
+        <source>Outline app feature 05 here</source>
+        <target>__Outline app feature 05 here</target>
+      </trans-unit>
+      <trans-unit id="2420892c221027066d3ce18b1aa40307" resname="App Feature 06">
+        <source>App Feature 06</source>
+        <target>__App Feature 06</target>
+      </trans-unit>
+      <trans-unit id="80a427282e23f9a9d8fe456bfab9a19c" resname="Outline app feature 06 here">
+        <source>Outline app feature 06 here</source>
+        <target>__Outline app feature 06 here</target>
+      </trans-unit>
+      <trans-unit id="a234a79e6b9eea43954eb29a4e233101" resname="App Feature 07">
+        <source>App Feature 07</source>
+        <target>__App Feature 07</target>
+      </trans-unit>
+      <trans-unit id="eb3d663810056edd80e694cf9456136d" resname="Outline app feature 07 here">
+        <source>Outline app feature 07 here</source>
+        <target>__Outline app feature 07 here</target>
+      </trans-unit>
+      <trans-unit id="758142ffa06f9faa722c5ebda418c4bd" resname="Scan the QR codes">
+        <source>Scan the QR codes</source>
+        <target>__Scan the QR codes</target>
+      </trans-unit>
+      <trans-unit id="ed86b76d254c180b70138d32377e8b23" resname="Download for iOS">
+        <source>Download for iOS</source>
+        <target>__Download for iOS</target>
+      </trans-unit>
+      <trans-unit id="90bdec6c4f3622ed1965c73d8f049065" resname="Download for Andriod">
+        <source>Download for Andriod</source>
+        <target>__Download for Andriod</target>
+      </trans-unit>
+      <trans-unit id="6f1bf85c9ebb3c7fa26251e1e335e032" resname="Terms">
+        <source>Terms</source>
+        <target>__Terms</target>
+      </trans-unit>
+      <trans-unit id="c5f29bb36f9158d2e00f5d4dc213a0ff" resname="Privacy">
+        <source>Privacy</source>
+        <target>__Privacy</target>
+      </trans-unit>
+      <trans-unit id="ed1456d1708a49e371afc90b4f102143" resname="promote mobile app title">
+        <source>promote mobile app title</source>
+        <target>__promote mobile app title</target>
+      </trans-unit>
+      <trans-unit id="b0f5899503698ea633f035e1a5cf8ae2" resname="Download from the App Store">
+        <source>Download from the App Store</source>
+        <target>__Download from the App Store</target>
+      </trans-unit>
+      <trans-unit id="4c3111829af1789393895327c12b47b6" resname="Get it from Google Play">
+        <source>Get it from Google Play</source>
+        <target>__Get it from Google Play</target>
+      </trans-unit>
+      <trans-unit id="bc4abc8939eb95708fce9bd5277d5949" resname="30% OFF - Now only $0.99">
+        <source>30% OFF - Now only $0.99</source>
+        <target>__30% OFF - Now only $0.99</target>
+      </trans-unit>
+      <trans-unit id="2c01806a7b9a60cf6ab4222b10c44a4d" resname="Offer ends 31st March">
+        <source>Offer ends 31st March</source>
+        <target>__Offer ends 31st March</target>
+      </trans-unit>
+      <trans-unit id="4c21b538b6def4ed989087adf6011dcb" resname="Story behind the app">
+        <source>Story behind the app</source>
+        <target>__Story behind the app</target>
+      </trans-unit>
+      <trans-unit id="9015c04739f22ca631b3e9e22fa52177" resname="Story_first_paragraph">
+        <source>Story_first_paragraph</source>
+        <target>__Story_first_paragraph</target>
+      </trans-unit>
+      <trans-unit id="e85e6365c6c3ca6ff37d2b2fbcbce401" resname="Story_second_paragraph">
+        <source>Story_second_paragraph</source>
+        <target>__Story_second_paragraph</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

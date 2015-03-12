@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="zh" datatype="plaintext" original="file.ext">
+    <body>
+
+
+<!--CONTACT-->
+      <trans-unit id="741c37e7af4d422dba418b18c6bc011a" resname="Contact US">
+        <source>Contact US</source>
+        <target>联系我们</target>
+      </trans-unit>
+      <trans-unit id="c239ee5dc9ccd2bb93077c856d6eab63" resname="thanks_contact_us">
+        <source>thanks_contact_us</source>
+        <target>谢谢您联系我们，我们会尽快回复您。</target>
+      </trans-unit>
+      <trans-unit id="3197fa14e4e08e27580a8769ca8624f1" resname="We’d love to hear from you.">
+        <source>We’d love to hear from you.</source>
+        <target>我们乐于倾听您的建议.</target>
+      </trans-unit>
+      <trans-unit id="49ee3087348e8d44e1feda1917443987" resname="Name">
+        <source>Name</source>
+        <target>名称</target>
+      </trans-unit>
+      <trans-unit id="ce8ae9da5b7cd6c3df2929543a9af92d" resname="Email">
+        <source>Email</source>
+        <target>电子邮件</target>
+      </trans-unit>
+      <trans-unit id="4c2a8fe7eaf24721cc7a9f0175115bd4" resname="Message">
+        <source>Message</source>
+        <target>信息</target>
+      </trans-unit>
+      <trans-unit id="1432f32780bbd9cde496343b060fd75d" resname="Send Message">
+        <source>Send Message</source>
+        <target>发送信息</target>
+      </trans-unit>
+
+
+<!--FAQS-->
+      <trans-unit id="5405d8a903c83e89cb649f1b518ef1be" resname="Frequently Asked Questions">
+        <source>Frequently Asked Questions</source>
+        <target>常问问题</target>
+      </trans-unit>
+      <trans-unit id="3239a3bcd2f619642ae1c88bb87cd034" resname="Question 01">
+        <source>Question 01</source>
+        <target>这个应用软件是否免费？</target>
+      </trans-unit>
+      <trans-unit id="374764b5d3b8a53e177334733178539f" resname="Answer 01">
+        <source>Answer 01</source>
+        <target>本应用软件为免费，但一些生物分类信息需要购买“内购买项目”才可获得。</target>
+      </trans-unit>
+      <trans-unit id="a3ccfe34e70a71968ec0598344ebcf67" resname="Question 02">
+        <source>Question 02</source>
+        <target>什么是“内购买项目”？</target>
+      </trans-unit>
+      <trans-unit id="53d106dde9c781369bf5cc4346458abb" resname="Answer 02">
+        <source>Answer 02</source>
+        <target>“内购买项目”是在应用软件内额外附加的购买项目，<![CDATA[ <a href="http://support.apple.com/kb/HT4009?viewlocale=zh_CN"> 请点击此链接</a> ]]> 以获取更多信息。</target>
+      </trans-unit>
+      <trans-unit id="47b0cff0a487bd290d83644005c808f0" resname="Question 03">
+        <source>Question 03</source>
+        <target>使用此应用软件需要互联网连接吗？</target>
+      </trans-unit>
+      <trans-unit id="e7adee2832e5f9fdbe03a1a43f72499c" resname="Answer 03">
+        <source>Answer 03</source>
+        <target>是的，图鉴中大部分信息是储存在服务器中的，应用软件需要连接互联网才可获取相关信息。</target>
+      </trans-unit>
+      <trans-unit id="5ef3d14c1198e0cd7e016eef7a3a03be" resname="Question 04">
+        <source>Question 04</source>
+        <target>此应用软件可以在什么设备上使用？</target>
+      </trans-unit>
+      <trans-unit id="2b67b76caf7bd81c7219aa751a4aead0" resname="Answer 04">
+        <source>Answer 04</source>
+        <target>目前本软件可在iPhone 4， IPhone 4S和iPhone 5上使用，安卓版本即将推出。</target>
+      </trans-unit>
+      <trans-unit id="99e3014c8b6f7081f89c88cfed1a4bd7" resname="Question 05">
+        <source>Question 05</source>
+        <target>都有哪些语言可以选择？</target>
+      </trans-unit>
+      <trans-unit id="0415f2d2ab6ba946101ccc1a0d77c541" resname="Answer 05">
+        <source>Answer 05</source>
+        <target>目前软件有英语、葡萄牙语版本，其他语言版本即将推出。</target>
+      </trans-unit>
+      <trans-unit id="ce668a2e4fc580823f3ea2e469686fcb" resname="Question 06">
+        <source>Question 06</source>
+        <target>我如何参与？</target>
+      </trans-unit>
+      <trans-unit id="ce75d6c0da7ca65740130f9f58a269fe" resname="Answer 06">
+        <source>Answer 06</source>
+        <target>您可以上传您的照片至我们的网站：http://skaphandrus.com</target>
+      </trans-unit>
+      <trans-unit id="a40de914e9e0e2392db66293b07d1550" resname="More questions">
+        <source>More questions</source>
+        <target>更多问题？</target>
+      </trans-unit>
+      <trans-unit id="7373ef469e2601cdc067e38068f09dc8" resname="Get in touch">
+        <source>Get in touch</source>
+        <target>取得联系</target>
+      </trans-unit>
+     
+
+
+  
+<!-- FEATURES -->
+      <trans-unit id="6338e804c5d91558e96499e7810f8ff1" resname="App Feature 01">
+        <source>App Feature 01</source>
+        <target>插图</target>
+      </trans-unit>
+      <trans-unit id="16e50b60a02bcda8e139d8163c10f7af" resname="Outline app feature 01 here">
+        <source>Outline app feature 01 here</source>
+        <target>所有形态学特征的插图.</target>
+      </trans-unit>
+      <trans-unit id="dc1c3633a634d8e7c47f9ca729963daa" resname="App Feature 02">
+        <source>App Feature 02</source>
+        <target>按键识别</target>
+      </trans-unit>
+      <trans-unit id="9f034cf84144528bc7145f9c711bd53c" resname="Outline app feature 02 here">
+        <source>Outline app feature 02 here</source>
+        <target>依据明确的形态学特征确定识别关键.</target>
+      </trans-unit>
+      <trans-unit id="1734bfda4aba1e6482e56fef91035ee5" resname="App Feature 03">
+        <source>App Feature 03</source>
+        <target>海洋生物学家</target>
+      </trans-unit>
+      <trans-unit id="8357d2eeee209f1479ffdcfadda1abb9" resname="Outline app feature 03 here">
+        <source>Outline app feature 03 here</source>
+        <target>由海洋生物学家对数据进行严格的处理与审核.</target>
+      </trans-unit>
+      <trans-unit id="3d8ca78c82a211f24574f853eb34c1b3" resname="App Feature 04">
+        <source>App Feature 04</source>
+        <target>多语种</target>
+      </trans-unit>
+      <trans-unit id="4081a1d4ddd12d30b5848fbdb898d7ee" resname="Outline app feature 04 here">
+        <source>Outline app feature 04 here</source>
+        <target>多语种.</target>
+      </trans-unit>
+      <trans-unit id="e391408242a0031b47380f8a2f5ae182" resname="App Feature 05">
+        <source>App Feature 05</source>
+        <target>形态特征</target>
+      </trans-unit>
+      <trans-unit id="2301cf85713d915593375ef0e36bd983" resname="Outline app feature 05 here">
+        <source>Outline app feature 05 here</source>
+        <target>可以选择多种形态学特征来进行鉴别.</target>
+      </trans-unit>
+      <trans-unit id="2420892c221027066d3ce18b1aa40307" resname="App Feature 06">
+        <source>App Feature 06</source>
+        <target>每月更新</target>
+      </trans-unit>
+      <trans-unit id="80a427282e23f9a9d8fe456bfab9a19c" resname="Outline app feature 06 here">
+        <source>Outline app feature 06 here</source>
+        <target>每月更新.</target>
+      </trans-unit>
+      <trans-unit id="a234a79e6b9eea43954eb29a4e233101" resname="App Feature 07">
+        <source>App Feature 07</source>
+        <target>照片</target>
+      </trans-unit>
+      <trans-unit id="eb3d663810056edd80e694cf9456136d" resname="Outline app feature 07 here">
+        <source>Outline app feature 07 here</source>
+        <target>生物的分类，图片，学名及俗称会在种类信息表中列出.</target>
+      </trans-unit>
+
+
+
+<!-- HOW IT WORKS -->
+
+      <trans-unit id="758142ffa06f9faa722c5ebda418c4bd" resname="Scan the QR codes">
+        <source>Scan the QR codes</source>
+        <target>扫描二维码</target>
+      </trans-unit>
+      <trans-unit id="ed86b76d254c180b70138d32377e8b23" resname="Download for iOS">
+        <source>Download for iOS</source>
+        <target>下载IOS版本</target>
+      </trans-unit>
+      <trans-unit id="90bdec6c4f3622ed1965c73d8f049065" resname="Download for Android">
+        <source>Download for Android</source>
+        <target>下载安卓版本</target>
+      </trans-unit>
+
+      <trans-unit id="90bdec6c4f3622ed1965231d8f049065" resname="Screenshots">
+        <source>Screenshots</source>
+        <target>屏幕截图</target>
+      </trans-unit>
+
+
+ 
+<!--MENU -->
+      <trans-unit id="98f770b0af18ca763421bac22b4b6805" resname="Features">
+        <source>Features</source>
+        <target>特点</target>
+      </trans-unit>
+      <trans-unit id="9ffdb95250e26c7a6b468126ac7c75b0" resname="How it works">
+        <source>How it works</source>
+        <target>如何使用</target>
+      </trans-unit>
+     <trans-unit id="1fe917b01f9a3f87fa2d7d3b7643fac1" resname="FAQ">
+        <source>FAQ</source>
+        <target>常见问题</target>
+      </trans-unit>
+      <trans-unit id="dfba89a600b608b2b724efe1f06f599a" resname="Story">
+        <source>Story</source>
+        <target>历史</target>
+      </trans-unit>
+      <trans-unit id="bbaff12800505b22a853e8b7f4eb6a22" resname="Contact">
+        <source>Contact</source>
+        <target>联系方式</target>
+      </trans-unit>
+
+      <trans-unit id="bbaff12800505b2qq2a853e8b7f4eb6a22" resname="Blog">
+        <source>Blog</source>
+        <target>博客</target>
+      </trans-unit>
+
+    
+<!-- FOOTER -->
+      <trans-unit id="6f1bf85c9ebb3c7fa26251e1e335e032" resname="Terms">
+        <source>Terms</source>
+        <target>条款</target>
+      </trans-unit>
+      <trans-unit id="c5f29bb36f9158d2e00f5d4dc213a0ff" resname="Privacy">
+        <source>Privacy</source>
+        <target>隐私</target>
+      </trans-unit>
+
+
+<!-- PROMO -->
+      <trans-unit id="ed1456d1708a49e371afc90b4f102143" resname="promote mobile app title">
+        <source>promote mobile app title</source>
+        <target>不知道自己在水下看见了什么？本应用软件告诉你答案。</target>
+      </trans-unit>
+      <trans-unit id="511d03ddbd25eab4d452f3170293fb50" resname="promote mobile app summary 01">
+        <source>promote mobile app summary 01</source>
+        <target>由生物学家，科学插图画家和潜水者共同开发。</target>
+      </trans-unit>
+      <trans-unit id="7c700e05aef02514febbfaffcc4373b4" resname="promote mobile app summary 02">
+        <source>promote mobile app summary 02</source>
+        <target>简单的鉴别方法保证了鉴别的速度。</target>
+      </trans-unit>
+      <trans-unit id="38bde48247be549f2a8464f53990827d" resname="promote mobile app summary 03">
+        <source>promote mobile app summary 03</source>
+        <target>对潜水者及任何海洋爱好者都有帮助。</target>
+      </trans-unit>
+      <trans-unit id="e391530b5e6df3bb9b75a5ee1b66b71f" resname="promote mobile app summary 04">
+        <source>promote mobile app summary 04</source>
+        <target>让您的水下观赏更具科学价值。</target>
+      </trans-unit>
+
+
+      <trans-unit id="511d03ddbd25eab4d452f3170293fb50a" resname="promote mobile app summary 05">
+        <source>promote mobile app summary 05</source>
+        <target>在潜水过程中能观察到不同的生物种类。</target>
+      </trans-unit>
+      <trans-unit id="7c700e05aef02514febbfaffcc4373b4a" resname="promote mobile app summary 06">
+        <source>promote mobile app summary 06</source>
+        <target>通过选择不同的形态学特征，与图鉴进行互动。</target>
+      </trans-unit>
+      <trans-unit id="38bde48247be549f2a8464f53990827da" resname="promote mobile app summary 07">
+        <source>promote mobile app summary 07</source>
+        <target>通过画面与科学的插图来鉴别海洋生物。</target>
+      </trans-unit>
+      <trans-unit id="e391530b5e6df3bb9b75a5ee1b66b71fa" resname="promote mobile app summary 08">
+        <source>promote mobile app summary 08</source>
+        <target>依据科学精确开发。</target>
+      </trans-unit>
+
+
+
+      <trans-unit id="b0f5899503698ea633f035e1a5cf8ae2" resname="Download from the App Store">
+        <source>Download from the App Store</source>
+        <target>Download from the App Store</target>
+      </trans-unit>
+      <trans-unit id="4c3111829af1789393895327c12b47b6" resname="Get it from Google Play">
+        <source>Get it from Google Play</source>
+        <target>Get it from Google Play</target>
+      </trans-unit>
+      <trans-unit id="bc4abc8939eb95708fce9bd5277d5949" resname="30% OFF - Now only $0.99">
+        <source>30% OFF - Now only $0.99</source>
+        <target>您还等什么？</target>
+      </trans-unit>
+      <trans-unit id="2c01806a7b9a60cf6ab4222b10c44a4d" resname="Offer ends 31st March">
+        <source>Offer ends 31st March</source>
+        <target>现在就获得！</target>
+      </trans-unit>
+
+
+
+<!-- STORY -->
+      <trans-unit id="4c21b538b6def4ed989087adf6011dcb" resname="Story behind the app">
+        <source>Story behind the app</source>
+        <target>应用软件幕后故事</target>
+      </trans-unit>
+      <trans-unit id="9015c04739f22ca631b3e9e22fa52177" resname="Story_first_paragraph">
+        <source>Story_first_paragraph</source>
+        <target>全世界大约有两千万以观察海洋生物为目的的潜水者。在每次潜水结束后，大家谈论的主要话题总是观察到的动植物。但是像“刚才看见的那个叫什么？”这样的问题，答案总是无人知晓。因为在看到生物的那一刻，我们手边没有合适的工具帮助鉴别，而我们也没有扎实的生物和分类学知识基础。为弥补这一遗憾，海洋生物图鉴这一应用软件就应运而生了。</target>
+      </trans-unit>
+      <trans-unit id="e85e6365c6c3ca6ff37d2b2fbcbce401" resname="Story_second_paragraph">
+        <source>Story_second_paragraph</source>
+        <target>海洋生物图鉴利用插图和先进的展示手段，告诉您鉴别生物的关键所在，使得任何人都能叫出看到生物的名字。</target>
+      </trans-unit>
+      <trans-unit id="45f7c549c227de2abfa73c634eab753e" resname="Project Manager">
+        <source>Project Manager</source>
+        <target>项目经理</target>
+      </trans-unit>
+      <trans-unit id="37198a8bc01ca552f29c98c1efd55641" resname="Brand Manager">
+        <source>Brand Manager</source>
+        <target>品牌经理</target>
+      </trans-unit>
+     
+
+<!-- TESTIMONIALS-->
+      <trans-unit id="b6fbb5c0ad5ca6ea9f20c72fa699a529" resname="What do people think">
+        <source>What do people think</source>
+        <target>反响如何</target>
+      </trans-unit>
+      <trans-unit id="f809a437313a543e33f7a989ce1cbb59" resname="Also featured in...">
+        <source>Also featured in...</source>
+        <target>参与了…</target>
+      </trans-unit>
+
+
+
+<!-- META -->
+      <trans-unit id="f809a437313a543e33f7a989ce1cbb12" resname="title">
+        <source>title</source>
+        <target>最快捷，最直观的海洋生物识别的应用程序！</target>
+      </trans-unit>
+      <trans-unit id="f809a437313a543e33f7a989ce1c1222" resname="description">
+        <source>description</source>
+        <target>海洋生物图鉴利用插图和先进的展示手段.</target>
+      </trans-unit>
+      <trans-unit id="f80qweweqwea989ce1c1222" resname="keywords">
+        <source>keywords</source>
+        <target>水肺，潜水，海洋，生物，生命，鉴别，图鉴，哺乳动物，鲸，海豚，水獭，海豹，海狮，海牛，儒艮</target>
+      </trans-unit>
+
+
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,34 @@
+skaphandrus_divingadvisors_hello:
+    pattern:  /hello/{name}
+    defaults: { _controller: SkaphandrusDivingadvisorsBundle:Default:hello }
+    
+homepage:
+    path:      /{_locale}
+    defaults:  
+      _controller: SkaphandrusDivingadvisorsBundle:Default:index
+      _locale: en 
+    requirements:
+      _locale:  en|pt|fr|it|es|zh|de|ja
+      
+
+          
+      
+      
+      
+# 
+#homepage:
+#    path:      /
+#    defaults:  { _controller: SkaphandrusDivingadvisorsBundle:Default:index }
+    
+   
+#   
+#create:
+#    path:      /create
+#    defaults:  { _controller: SkaphandrusDivingadvisorsBundle:Default:create }
+#     
+   
+   
+   
+#SkaphandrusDivingadvisorsBundle_contact:
+#        resource: "@SkaphandrusDivingadvisorsBundle/Resources/config/routing/contact.yml"
+#        prefix:   /contact
