@@ -184,7 +184,7 @@ jQuery(function($) {'use strict',
 	var cHeight=75;
 	var cTotalFrames=8;
 	var cFrameWidth=75;
-	var cImageSrc='images/sprites.gif';
+	var cImageSrc='http://divingadvisors.com/bundles/skaphandrusdivingadvisors/images/sprites.gif';
 	
 	var cImageTimeout=false;
 	
