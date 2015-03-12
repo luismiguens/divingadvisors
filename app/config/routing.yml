@@ -2,6 +2,6 @@ skaphandrus_divingadvisors:
     resource: "@SkaphandrusDivingadvisorsBundle/Resources/config/routing.yml"
     prefix:   /
 
-app:
-    resource: @AppBundle/Controller/
-    type:     annotation
+#app:
+#    resource: @AppBundle/Controller/
+#    type:     annotation
