@@ -5,7 +5,9 @@
         <group>
             <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/public/js/main.js</file>
             <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/views/layout.html.twig</file>
+            <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/views/Default/portfolio.html.twig</file>
             <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/views/Default/index.html.twig</file>
+            <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/views/Default/services.html.twig</file>
             <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/views/Default/footer.html.twig</file>
         </group>
     </open-files>
