@@ -50,7 +50,7 @@ a:focus,
 a:hover {
   text-decoration: none;
   outline: none;
-  color: #20B2AA;
+  color: #ffe401;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -65,7 +65,7 @@ section {
 	overflow:hidden;
 }
 .default-bg {	
-	background-color:#20B2AA;
+	background-color:#ffe401;
 }
 
 .entry-header {
@@ -164,7 +164,7 @@ textarea {
 #main-carousel h2 {
 	font-size:102px;
 	font-weight:700;
-	color:#20B2AA;
+	color:#ffe401;
 }
 
 #main-carousel h2 span {
@@ -187,7 +187,7 @@ textarea {
 }
 
 .carousel-caption i {
-	background-color: #20B2AA;
+	background-color: #FFE401;
 	border-radius: 50%;
 	color: #242525;
 	font-size: 48px;
@@ -217,7 +217,7 @@ textarea {
 }
 
 #main-carousel .carousel-indicators .active {
-	background-color:#20B2AA;
+	background-color:#ffe401;
 }
 
 
@@ -264,7 +264,7 @@ textarea {
 }
 
 .service-icon i{
-	color: #20B2AA;
+	color: #FFE401;
 	font-size: 60px;
 	margin-right: 40px !important;
 }
@@ -283,7 +283,7 @@ textarea {
 
 .single-service:hover .single-service-icon {
 	background-color:#333333;
-	color: #20B2AA;
+	color: #FFE401;
 }
 
 .single-service-icon, 
@@ -301,7 +301,7 @@ textarea {
 }
 
 .single-service-icon {
-	background-color: #20B2AA;
+	background-color: #FFE401;
 	color: #333333;
 	font-size: 72px;
 	padding: 7px 0;
@@ -431,7 +431,7 @@ textarea {
 }
 
 .overlay  ul li a.facebook {
-	background-color: #20B2AA;
+	background-color: #ffe401;
 }
 
 .overlay  ul li a.twitter {
@@ -535,7 +535,7 @@ textarea {
 }
 
 #portfolio .entry-header h2{
-	color:#20B2AA;
+	color:#ffe401;
 }
 
 #portfolio-slider .item {
@@ -590,7 +590,7 @@ textarea {
 }
 
 #portfolio-slider .carousel-indicators .active {
-	background-color:#20B2AA
+	background-color:#ffe401
 }
 
 .portfolio-filter {
@@ -634,7 +634,7 @@ textarea {
 .portfolio-filter li a:active, 
 .portfolio-filter li a:focus, 
 .portfolio-filter li a.active {
-	color:#20B2AA;
+	color:#ffe401;
 }
 
 
@@ -655,9 +655,9 @@ margin-bottom:30px;
 }
 
 .mask a {
-	border: 10px solid #20B2AA;
+	border: 10px solid #FFE401;
 	border-radius: 50%;
-	color: #20B2AA;
+	color: #FFE401;
 	font-size: 30px;
 	height: 72px;
 	left:-50%;
@@ -748,7 +748,7 @@ margin-bottom:30px;
 
 .client-left:hover, 
 .client-right:hover {
-	color: #20B2AA;
+	color: #FFE401;
 }
 
 .client-left {
@@ -815,7 +815,7 @@ margin-bottom:30px;
 
 .btn.btn-primary {
 	background-color: #1E1E1E;
-	color: #20B2AA;
+	color: #FFE401;
 	display: inline-block;
 	font-size: 20px;
 	font-weight: 300;
@@ -834,7 +834,7 @@ margin-bottom:30px;
 }
 
 #blog .entry-header h2 {
-	color:#20B2AA;
+	color:#ffe401;
 	font-weight:300;
 }
 
@@ -844,7 +844,7 @@ margin-bottom:30px;
 }
 
 .post-date {
-	background-color: #20B2AA;
+	background-color: #FFE401;
 	color: #1E1E1E;
 	font-size: 48px;
 	font-weight: 400;
@@ -876,7 +876,7 @@ margin-bottom:30px;
 }
 
 .contact-section h2 {
-	color:#20B2AA;
+	color:#FFE401;
 	text-transform:uppercase;
 	margin-bottom:30px;
 }
@@ -907,12 +907,12 @@ textarea.form-control {
 }
 
 .form-control:focus {
-	border:1px solid #20B2AA;
+	border:1px solid #ffe401;
 	box-shadow:none;
 }
 
 .btn-submit {
-	background-color: #20B2AA;
+	background-color: #FFE401;
 	border: medium none;
 	color: #151515;
 	font-size: 18px;
@@ -1079,7 +1079,7 @@ textarea.form-control {
 
 .blog-item .fa-clock-o {
 	background-color: #1e1e1e;
-	color: #20B2AA;
+	color: #ffe401;
 	font-size: 44px;
 	padding:20px 22px;
 }
@@ -1232,12 +1232,12 @@ textarea.form-control {
 }
 
 .replay-box  .form-control:focus {
-	border-color:#20B2AA;
+	border-color:#ffe401;
 }
 
 .replay-box .btn-submit {
   background-color: transparent;
-  border: 1px solid #20B2AA;
+  border: 1px solid #ffe401;
   margin-top: 35px;
   padding: 10px 40px;
 }
