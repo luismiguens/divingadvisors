@@ -3,15 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/public/js/main.js</file>
             <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/views/Default/aboutus.html.twig</file>
-            <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/views/layout.html.twig</file>
+            <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/views/Default/contact.html.twig</file>
+            <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/public/css/main.css</file>
+            <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/public/images/logo.png</file>
             <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/views/Default/portfolio.html.twig</file>
             <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/views/Default/index.html.twig</file>
             <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/views/Default/services.html.twig</file>
             <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/views/Default/carousel.html.twig</file>
             <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/views/Default/footer.html.twig</file>
-            <file>file:/home/luis/sfprojects/divingadvisors/src/Skaphandrus/DivingadvisorsBundle/Resources/views/blank.html.twig</file>
         </group>
     </open-files>
 </project-private>
